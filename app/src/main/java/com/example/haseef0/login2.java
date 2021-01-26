@@ -25,4 +25,4 @@ public class login2 extends AppCompatActivity {
             Intent intent =new Intent (this, HomeStaff.class);
             startActivity(intent);
         }
-    }
+    }//
